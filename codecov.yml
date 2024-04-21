@@ -1,0 +1,4 @@
+# sample regex patterns
+ignore:
+  - "src/index.js"
+  - "src/reportWebVitals.js"
